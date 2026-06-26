@@ -1,7 +1,5 @@
 # Hi 👋 I'm Rao Zain Ali
 
-# Hi 👋 I'm Rao Zain Ali
-
 🎓 Computer Science Student
 
 💻 Backend Developer
